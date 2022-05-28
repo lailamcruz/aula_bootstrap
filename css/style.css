@@ -1,0 +1,36 @@
+body {
+font: 20px arial, sans-serif;
+}
+
+.navbar {
+	background-color: #51804C; 
+}
+.quem-sou {
+	background-color: pink;
+	color: white;
+}
+
+.memes {
+	background-color: lightpink;
+	color: white;
+}
+
+.preferencias {
+	background-color: pink;
+	color: white;
+}
+
+.info {
+	background-color: lightpink;
+	color: white;
+}
+
+.margin {
+padding-bottom: 50px;	
+padding-top: 10px;
+}
+
+.bg-footer {
+	background-color: black;
+	color: white;
+}
